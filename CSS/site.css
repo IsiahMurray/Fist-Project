@@ -1,9 +1,12 @@
 body, 
+/* body text color */
 html {
     color: white;
     height: 100%;
 }
 
+
+/*background color image setting */
 #hero {
     min-height: 100vh;
     background: #141E30;
@@ -14,6 +17,7 @@ html {
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+/* CSS for task box*/
 .taskContainer {
     background-color: white;
     border: solid .5em #ffc107;
